@@ -15,7 +15,7 @@ module.exports = {
       host: "127.0.0.1",
       port: 5000, // default Fab3 port
       network_id: "*",
-      type: "fabric-evm"
+      type: "fabric-evmcc"
     }
   }
 };
